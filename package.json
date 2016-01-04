@@ -1,0 +1,24 @@
+{
+  "name": "todayilearned",
+  "version": "1.0.0",
+  "description": "Reads r/todayilearned and collects the top 10 hot posts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kartikvempati/todayilearned.git"
+  },
+  "author": "Kartik Vempati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kartikvempati/todayilearned/issues"
+  },
+  "homepage": "https://github.com/kartikvempati/todayilearned#readme",
+  "dependencies": {
+    "angular": "^1.4.8",
+    "express": "^4.13.3",
+    "node": "0.0.0"
+  }
+}
